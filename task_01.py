@@ -6,4 +6,6 @@ Strings are immutable but what about the variables that hold them?
 """
 
 
-RAVEN = 'quoth'
+RAVEN = 'Nevermore!'
+#RAVEN = 'quoth'
+print RAVEN
