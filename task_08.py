@@ -18,3 +18,7 @@ NERVOUS_AS = """
 
 
 """
+
+NERVOUS_AS = str.strip(NERVOUS_AS)[10:61]
+
+print NERVOUS_AS
