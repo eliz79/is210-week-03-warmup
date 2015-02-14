@@ -12,3 +12,8 @@
 """
 
 import task_12
+
+FRAC_DEC_EQUAL = DECVAL == FRACVAL
+
+print FRAC_DEC_EQUAL
+

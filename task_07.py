@@ -11,5 +11,4 @@ if 'granaries' in WORDS:
     print "GRANARIES_EXIST"
 
 else:
-    print "GRANARIES_DO_NOT_EXIST"    
-
+    print "GRANARIES_DO_NOT_EXIST"

@@ -12,4 +12,3 @@ task_09. Hope it's correct."""
 THE_ANSWER_TO_EVERYTHING = 42
 
 INFINITE_IMPROBABILITY = 'browning motion'
-
