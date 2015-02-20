@@ -19,6 +19,5 @@ NERVOUS_AS = """
 
 """
 
-NERVOUS_AS = str.strip(NERVOUS_AS)[10:61]
-
+NERVOUS_AS = NERVOUS_AS.strip().rstrip(',').lstrip('/')
 print NERVOUS_AS
